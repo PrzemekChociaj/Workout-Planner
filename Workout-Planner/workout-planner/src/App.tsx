@@ -1,4 +1,5 @@
-import Wrapper from './Wrapper';
+import Wrapper from './components/MainContent/MainContentWrapper';
+import './index.css';
 
 function App() {
 	return (
