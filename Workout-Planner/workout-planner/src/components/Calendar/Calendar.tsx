@@ -28,7 +28,7 @@ const Calendar: React.FunctionComponent = () => {
 			/>
 			<button
 				onClick={handleSaveDate}
-				className='mt-4 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded'>
+				className='mt-2  px-4 ml-6 bg-blue-500 hover:bg-blue-600 text-white rounded'>
 				Zapisz datę
 			</button>
 		</div>
