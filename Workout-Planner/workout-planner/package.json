@@ -13,6 +13,7 @@
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
     "heroicons": "^2.0.18",
+    "iframe-resizer-react": "^1.1.0",
     "react": "^18.2.0",
     "react-datepicker": "^4.14.1",
     "react-dom": "^18.2.0"

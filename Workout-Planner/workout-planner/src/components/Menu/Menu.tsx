@@ -9,7 +9,7 @@ const categories: string[] = [
 
 const Menu: React.FunctionComponent = () => {
 	return (
-		<div className='h-screen w-1/5 bg-gray-200 p-4'>
+		<div className='h-[90%] w-1/5 bg-gray-200 p-4'>
 			<div className='flex justify-between items-center mb-4'>
 				<h1 className='text-2xl font-bold'>Menu</h1>
 			</div>
